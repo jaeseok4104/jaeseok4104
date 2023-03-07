@@ -1,5 +1,5 @@
 ### Hi there 👋
-# [My Resume](https://github.com/jaeseok4104/my_resume/blob/main/readme.md)
+### [My Resume](https://github.com/jaeseok4104/my_resume/blob/main/readme.md)
 <!--
 **jaeseok4104/jaeseok4104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
